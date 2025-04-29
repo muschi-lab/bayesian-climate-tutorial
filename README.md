@@ -1,2 +1,2 @@
 # bayesian-climate-tutorial
-A light-touch introduction to Bayesian Statistics and its applications in climate data science
+This tutorial is an entry point to Bayesian statistics, Markov Chain Monte Carlo (MCMC) and, more broadly, machine learning applications in climate data science. It covers the fundamental concepts behind the Bayesian approach to probability and highlights its advantages over frequentist methods. The tutorial begins by introducing Bayes' rule through an idealized binomial problem. It then applies these principles to a more complex physical data set, demonstrating the key advantages of using Bayesian analysis for sparse and error-prone climate and environmental data.
